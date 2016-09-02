@@ -1,2 +1,2 @@
 # UBNT
-# Automating configuration of Ubiquiti devices (All EdgeMax, EdgeSwitch, and AirOS devices 
+Automating configuration of Ubiquiti devices (All EdgeMax, EdgeSwitch, and AirOS devices 
